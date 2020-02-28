@@ -38,7 +38,10 @@
 
 	/*
 	-Exercise 5 :
-		Create a random numerical array.
-		Find the smallest value.
-		Find the greatest value.
+		Create an array of random numbers
+		1. Find the max / min number of the array.
+		You can't use any function (max/min/sort).
+	
+		2. Find the position of the max/min also.
+		You can only use 2 variables (your $array and $i doesn't count).
 	*/
