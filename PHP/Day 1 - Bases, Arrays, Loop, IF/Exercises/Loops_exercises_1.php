@@ -24,7 +24,7 @@
 	- Exercise 3 : 
 
 		Using a loop, fill in a array with every number from 0 to 20.
-		The element 0 will therefore contain 0, the element 1 will contain 2 etc.
+		The element 0 will therefore contain 0, the element 1 will contain 1 etc.
 
 		Do it by using a for AND a while loop
 	*/
